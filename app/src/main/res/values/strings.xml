@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="warning_empty_fields">Please fill in all fields</string>
+</resources>
